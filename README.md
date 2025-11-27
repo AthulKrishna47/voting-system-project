@@ -1,7 +1,7 @@
 
 # Election Voting System (12th Grade Project)
 
-A Python-based console application that simulates an election voting system connected with a MySQL database. Users can authenticate with an admission number, vote for SPL and House Captain candidates, and view election results.
+A Python-based console application that simulates an election voting system connected with a MySQL database. Users can authenticate with an admission number, vote for SPL and House Captain candidates, and view election results. Built as a school-level project to demonstrate database integration, input validation, and basic voting logic.
 
 ## Features
 
@@ -50,6 +50,4 @@ GitHub: [AthulKrishna47](https://github.com/AthulKrishna47)
 
 Thank you for checking out this project!
 =======
-# voting-system-project
-A Python console application simulating an election voting system connected with a MySQL database. It supports user login, voting for SPL and House Captain candidates, prevents double voting, and displays election results. Built as a school-level project to demonstrate database integration, input validation, and basic voting logic.
->>>>>>> dae329c722076de6a911d9e1df3ce536ffae834a
+
